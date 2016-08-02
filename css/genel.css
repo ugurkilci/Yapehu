@@ -1,0 +1,15 @@
+/* ya.pe.hu (c) 2016 | Bir Uğur KILCI ürünüdür. | twttr@ugur2nd, fcbk@dusunuveringari, lnkdn@ugur2nd, gthb@ugurkilci, instgrm@ugur2nd, gglpls+dusunenadamugur, ytbe@dusunenadamugur, ugurklc.blogspot.com, ugurbocugu8@gmail.com */
+body{background: #fff;color: #000;margin-top:10px;}
+a{color:green;}
+header{font-size: 40px;}
+.t{display:block;padding:5px;}
+.g{color:green;}
+.gg{color:green;border-bottom:3px solid green;width:42px;}
+.post{padding:5px;width:300px;max-width:300px;}
+
+/**/
+	@font-face {font-family: 'landyicons';src: url('landyicons.ttf') format('truetype');font-weight: normal;font-style: normal;}
+	.yazi{font-family:landyicons;font-size:50px;}
+	.yazi2{font-family:landyicons;font-size:30px;}
+	.yazi3{font-family:landyicons;}.yazi4{font-family:arial;}
+/**/
