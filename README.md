@@ -1,6 +1,6 @@
 # Yapehu
-TR: Bu sitenin amacını koymadım. Çünkü bu sitenin amacını üyelerin koymasını istiyorum. Sizce bu sitenin amacı ne olsun?
-EN: I have not the purpose of this site. I want to write, because the purpose of the members of this site. You get what the purpose of this site?
+TR: Bu sitenin amacını koymadım. Çünkü bu sitenin amacını üyelerin koymasını istiyorum. Sizce bu sitenin amacı ne olsun?<br />
+EN: I have not the purpose of this site. I want to write, because the purpose of the members of this site. You get what the purpose of this site?<br />
 
 [http://ya.pe.hu] beta 1.1<br />
 <br />
